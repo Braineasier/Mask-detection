@@ -10,6 +10,7 @@ The libraries required for this project is:
 **iv.** OpenCV (pip install opencv-python)
 **v.** Scikitlearn (pip install -U scikit-learn)
 **vi.** Matplotlib (pip install matplotlib)
+**vii** Jupyter Notebook (pip install jupyter)
 
 # Dataset
 **https://drive.google.com/drive/folders/106ED6BxokczIPB7rHwdKShM8XOARxTIt?usp=sharing**
